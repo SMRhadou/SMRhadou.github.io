@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samar Hadou"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Samar (pronounced /ˈsʌmə(ɹ)/ or summer if you are not familiar with IPA) ia a first-year PhD student at the University of Pennsylvania. 
+Hello! I am Samar (pronounced /ˈsʌmə(ɹ)/ or summer), a first-year PhD student at the University of Pennsylvania. My research interests span machine learning, signal processing, optimization and GNNs. I am working under the supervision of Prof. Alejandro Ribeiro. 
