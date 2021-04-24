@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samar Hadou"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Samar Hadou"
 description              : &description "PhD student @Penn."
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.eg/citations?user=FwL_RdEAAAAJ&hl=en"
-  email            : "selaraby@seas.upenn.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
