@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Samar Hadou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Samar 
+Samar (pronounced /ˈsʌmə(ɹ)/ or summer if you are not familiar with IPA) ia a first-year PhD student at the University of Pennsylvania. 
