@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Samar Hadou"
 description              : &description "PhD student @Penn."
@@ -85,7 +85,7 @@ author:
   bio              : "PhD student @Penn."
   location         : "Port Said, Egypt"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.eg/citations?user=FwL_RdEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+#   teaching:
+#     output: false
+#     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#   portfolio:
+#     output: false
+#     permalink: /:collection/:path/
+#   talks:
+#     output: false
+#     permalink: /:collection/:path/
 
 
 # Defaults
