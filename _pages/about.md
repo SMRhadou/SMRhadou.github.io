@@ -10,6 +10,4 @@ redirect_from:
 
 Hello! 
 
-I am Samar (pronounced /ˈsʌmə(ɹ)/ or summer), a first-year PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. My research interests span signal processing, optimization and GNNs. Prior to that, I was a research assistant at Port Said University, where I had received B.Sc. and M.Sc. degrees and still hold a tenure-track position. 
-
-An up-to-date list of my publications can be found on <a href="https://scholar.google.com.eg/citations?user=FwL_RdEAAAAJ&hl=en">Google Scholar</a>. Thank you!
+I am Samar (pronounced /ˈsʌmə(ɹ)/ or summer), a second-year PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. My research interests span machine learning and signal processing. Prior to that, I was a research assistant at Port Said University, where I had received B.Sc. and M.Sc. degrees. I am obssesed with the human intelligence and willing to replicate it on machines. I love to develop theories since it makes me look like a scientist :) 
