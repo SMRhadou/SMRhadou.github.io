@@ -14,7 +14,7 @@ I am Samar (pronounced /ˈsʌmə(ɹ)/ or summer), a second-year PhD student at t
 
 I am obssesed with the human intelligence and willing to replicate it on machines. I love to develop theories, which, hopefully, can facilitate handling real-world problems. I am currenty working on the the theories behind graph neural networks (GNNs). More about my work will come later.
 
-Do you want to talk to me? Send me email on selaraby (at) seas.upenn.edu. I would be glad to hear from you.
+Do you want to talk to me? Send me an email on selaraby (at) seas.upenn.edu. I would be glad to hear from you.
 
 Thank you!
 
