@@ -86,7 +86,7 @@ author:
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.eg/citations?user=FwL_RdEAAAAJ&hl=en"
+  googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "smrhadou"
-  orcid            : "https://orcid.org/0000-0002-7959-1100"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "smrhadou"
   vine             :
   weibo            :
   xing             :
