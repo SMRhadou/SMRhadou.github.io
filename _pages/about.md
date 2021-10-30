@@ -15,4 +15,5 @@ I am Samar (pronounced /ˈsʌmə(ɹ)/ or summer), a second-year PhD student at t
 Do you want to talk to me? Send me an email on selaraby (at) seas.upenn.edu. I would be glad to hear from you.
 
 <b>News</b>
+
 <b>Oct 2021:</b> A pre-print is out: <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a>.
