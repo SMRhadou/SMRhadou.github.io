@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-.adjust-line-height {
-  line-height: 1em;
-}
 
 Hello! 
 
