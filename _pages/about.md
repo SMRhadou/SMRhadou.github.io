@@ -16,7 +16,7 @@ Do you want to talk to me? Send me an email on selaraby (at) seas.upenn.edu. I w
 
 This is supposed to be my official, professional webpage, which would land me in a fancy job one day. Does not look like one to you? I cannot blame you.
 
-P.S. I am looking for online reading groups in theoretical machine learning. If you have any suggestions, I would be so grateful to hear from you.
+P.S. I am looking for online reading groups in theoretical machine learning. If you had any suggestions for me, I would be so grateful to hear from you.
 
 __
 
