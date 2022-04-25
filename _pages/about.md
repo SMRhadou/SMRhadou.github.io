@@ -15,7 +15,7 @@ I am Samar (pronounced /ˈsʌmə(ɹ)/ = Summer), a second-year PhD student at th
 __
 
 <u><b>News</b></u>
-<br><b>Jan 2022:</b> Our paper <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a> was accepted to ICLR 2022.
+<br><b>Jan 2022:</b> Our paper <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a> was accepted to ICLR 2022. A <a href="https://bit.ly/3EQeV91"> five-minute talk </a> is now available.
 <br><b>Oct 2021:</b> A new pre-print is out, <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a>.
 
 
