@@ -83,7 +83,7 @@ author:
   name             : "Samar Hadou"
   avatar           : "Hadou22.jpg"
   bio              : " "
-  location         : "Philadelphia, PA"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.eg/citations?user=FwL_RdEAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "SMRhadou"
   google_plus      :
   keybase          :
   instagram        :
