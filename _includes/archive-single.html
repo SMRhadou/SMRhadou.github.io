@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2>{{post.title}}
+    <h2>{{post.title}}<small>
       {% if post.paperurl and post.paperur2 and post.paperur3 %}
         [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur3 }} ">Talk</a>*]
       {% elsif post.paperurl and post.paperur4 %}
@@ -39,7 +39,7 @@
         [<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur3 }} ">Talk</a>*]
       {% elsif post.paperurl %}
         [<a href=" {{ post.paperurl }} ">Paper</a>]
-      {% endif %}
+      {% endif %}</small>
      </h2>
     
     {% if post.read_time %}
