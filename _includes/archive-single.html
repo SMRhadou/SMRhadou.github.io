@@ -56,18 +56,18 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>]</p>
-    {% elsif post.paperurl and post.paperur2 %}
-      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} "><u>Code</u></a>]</p>
-    {% elsif post.paperurl and post.paperur3 %}
-      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>]  [<a href=" {{ post.paperur3 }} "><u>Talk</u></a>*]</p>
     {% elsif post.paperurl and post.paperur2 and post.paperur3 %}
       <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} "><u>Code</u></a>] [<a href=" {{ post.paperur3 }} "><u>Talk</u></a>*]</p>
     {% elsif post.paperurl and post.paperur4 %}
       <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>]  [<a href=" {{ post.paperur4 }} "><u>Talk</u></a>]</p>
     {% elsif post.paperurl and post.paperur2 and post.paperur4 %}
       <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} "><u>Code</u></a>] [<a href=" {{ post.paperur4 }} "><u>Talk</u></a>]</p>
+    {% elsif post.paperurl and post.paperur2 %}
+      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} "><u>Code</u></a>]</p>
+    {% elsif post.paperurl and post.paperur3 %}
+      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>]  [<a href=" {{ post.paperur3 }} "><u>Talk</u></a>*]</p>
+    {% elsif post.paperurl %}
+      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>]</p>
     {% endif %}
 
   * A short talk, usually under 10minutes.
