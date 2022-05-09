@@ -26,21 +26,19 @@
       </div>
     {% endif %}
 
-    <b>
-      {{post.title}}
-    </b>
+    <h2>{{post.title}}</h2>
     {% if post.paperurl and post.paperur2 and post.paperur3 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur3 }} ">Talk</a>*]</p>
+      [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur3 }} ">Talk</a>*]
     {% elsif post.paperurl and post.paperur4 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur4 }} ">Talk</a>]</p>
+      [<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur4 }} ">Talk</a>]
     {% elsif post.paperurl and post.paperur2 and post.paperur4 %}
-      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur4 }} ">Talk</a>]</p>
+      [<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur4 }} ">Talk</a>]
     {% elsif post.paperurl and post.paperur2 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>]</p>
+      [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>]
     {% elsif post.paperurl and post.paperur3 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur3 }} ">Talk</a>*]</p>
+      [<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur3 }} ">Talk</a>*]
     {% elsif post.paperurl %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]</p>
+      [<a href=" {{ post.paperurl }} ">Paper</a>]
     {% endif %}
     
     {% if post.read_time %}
