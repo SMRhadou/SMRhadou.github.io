@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "ESE224 Signal and Informstion Processing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2022-Spring1
+venue: "University of Pennsylvania"
+date: Spring 2022
+location: ""
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
