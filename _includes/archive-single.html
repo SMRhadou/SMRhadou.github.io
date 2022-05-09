@@ -29,6 +29,19 @@
     <h2 class="archive__item-title" itemprop="headline">
       {{post.title}}
     </h2>
+    {% if post.paperurl and post.paperur2 and post.paperur3 %}
+      <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur3 }} ">Talk</a>*]</p>
+    {% elsif post.paperurl and post.paperur4 %}
+      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur4 }} ">Talk</a>]</p>
+    {% elsif post.paperurl and post.paperur2 and post.paperur4 %}
+      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur4 }} ">Talk</a>]</p>
+    {% elsif post.paperurl and post.paperur2 %}
+      <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>]</p>
+    {% elsif post.paperurl and post.paperur3 %}
+      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur3 }} ">Talk</a>*]</p>
+    {% elsif post.paperurl %}
+      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]</p>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -48,20 +61,6 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}
-    
-    {% if post.paperurl and post.paperur2 and post.paperur3 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur3 }} ">Talk</a>*]</p>
-    {% elsif post.paperurl and post.paperur4 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur4 }} ">Talk</a>]</p>
-    {% elsif post.paperurl and post.paperur2 and post.paperur4 %}
-      <p>[<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur4 }} ">Talk</a>]</p>
-    {% elsif post.paperurl and post.paperur2 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>]</p>
-    {% elsif post.paperurl and post.paperur3 %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur3 }} ">Talk</a>*]</p>
-    {% elsif post.paperurl %}
-      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]</p>
     {% endif %}
   
   {% if post.collection == 'publications' %}
