@@ -1,10 +1,10 @@
 ---
-title: "ESE514 - Graph Neural Netwrorks"
+title: "ESE514 - Graph Neural Netwrorks, TA, Fall 2021"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-Fall
 venue: "University of Pennsylvania"
-date: Fall 2021
+date: ""
 location: ""
 ---
 
