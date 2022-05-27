@@ -1,5 +1,5 @@
 ---
-title: "ESE514 Graph Neural Networks, TA"
+title: "ESE514 Graph Neural Networks, <i>TA</i>"
 collection: teaching
 type: "Graduate Course"
 venue: "University of Pennsylvania"
