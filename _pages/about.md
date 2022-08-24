@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! 
 
-I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a junior PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. I primarily work on building a better understanding of machine learning and deep neural networks.
+I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a junior PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. I primarily work on building a better understanding of machine learning. I also design new neural network architectures to tackle engineering problems.
 
 Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 
