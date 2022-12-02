@@ -20,3 +20,6 @@ __
 <br><b>2022:</b> A new pre-print is out, <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a>.
 <br><b>2022:</b> Our paper <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a> was accepted to ICLR 2022. A <a href="https://bit.ly/3EQeV91"> five-minute talk </a> is now available.
 
+
+<a href="/files/STAT_972_Slides-3.pdf"> Temp </a>
+
