@@ -17,9 +17,8 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
+<br><b>2023:</b> Member of the editorial team of "<i>Graph Theory Applications in the Analysis of Wireless Networks</i>" topic in Fronteirs in Communications and Networks journal. A call for papers will be announced soon.
 <br><b>2022:</b> A new pre-print is out, <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a>.
 <br><b>2022:</b> Our paper <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a> was accepted to ICLR 2022. A <a href="https://bit.ly/3EQeV91"> five-minute talk </a> is now available.
 
-
-<a href="/files/STAT_972_Slides-3.pdf"> Temp </a>
 
