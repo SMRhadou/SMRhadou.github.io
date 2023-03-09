@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! 
 
-I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. My rsearch interests focus on <b>statistical machine learning</b>, <b>optimization</b>, and <b>signal processing</b>. Prior to that I worked on graph neural networks and wireless communications. 
+I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. I look for puzzles and try to solve them. Sometimes I succeed, and sometimes I don't. I curently solve distributed optimization on large scales.
 
 Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 
