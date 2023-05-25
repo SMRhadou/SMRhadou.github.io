@@ -17,6 +17,7 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
+<br><b>Oct. 2022:</b> A new pre-print, <a href="https://bit.ly/3MBtRfH">Stochastic Unrolled Federated Learning</a>, is out.
 <br><b>May. 2023:</b> A <a href="https://bit.ly/3nJOiyl">short talk</a> for <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a> is now available.
 <br><b>Feb. 2023:</b> Our paper <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a> was accepted to ICASSP 2023.
 <br><b>Jan. 2023:</b> Member of the editorial team of "<i>Graph Theory Applications in the Analysis of Wireless Networks</i>" in Fronteirs in Communications and Networks. <a href="https://bit.ly/3NONKSu">Call for papers</a>.
