@@ -17,7 +17,7 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
-<br><b>July. 2023:</b> Presented a poster at the 2023 Fall Fourier Talks at University of Maryland.
+<br><b>Oct. 2023:</b> Presented a poster at the 2023 Fall Fourier Talks at University of Maryland.
 <br><b>Sept. 2023:</b> Attended the mathematical and scientific foundations of deep learning annual meeting.
 <br><b>July. 2023:</b> Presented a poster at the institute for learning-enabled optimization at scale (TILOS) at UCSD.
 <br><b>May. 2023:</b> A new pre-print, <a href="https://bit.ly/3MBtRfH">Stochastic unrolled federated learning</a>, is out.
