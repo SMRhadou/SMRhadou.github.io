@@ -23,7 +23,6 @@ __
 <br><b>May. 2023:</b> A new pre-print, <a href="https://bit.ly/3MBtRfH">Stochastic unrolled federated learning</a>, is out.
 <br><b>May. 2023:</b> A <a href="https://bit.ly/3nJOiyl">short talk</a> for <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a> is now available.
 <br><b>Feb. 2023:</b> Our paper <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a> was accepted to ICASSP 2023.
-<br><b>Jan. 2023:</b> Member of the editorial team of "<i>Graph Theory Applications in the Analysis of Wireless Networks</i>" in Fronteirs in Communications and Networks. <a href="https://bit.ly/3NONKSu">Call for papers</a>.
 <br><b>Oct. 2022:</b> A new pre-print is out, <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a>.
 <br><b>Apr. 2022:</b> Our paper <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a> was accepted to ICLR 2022. A <a href="https://bit.ly/3EQeV91"> five-minute talk </a> is now available.
 
