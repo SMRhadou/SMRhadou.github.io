@@ -10,14 +10,15 @@ redirect_from:
 
 Hello! 
 
-I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. I look for (theoretical) puzzles and try to solve them. Sometimes I succeed, and sometimes I don't. I curently solve distributed optimization on large scales.
+I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. My research interests focus on graph learning, generative modeling and optimizatin.
 
 Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 
 __
 
 <u><b>News</b></u>
-<br><b>Dec. 2023:</b> A new pre-print is out, <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a>.
+<br><b>Aug. 2024:</b> Our new paper <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> was accepted to IEEE transactions on Signal Processing.
+<br><b>June 2024:</b> Gave a Talk, <b> Robust unrolled networks</b>, at BIRS workshop.
 <br><b>Oct. 2023:</b> Presented a poster at the 2023 Fall Fourier Talks at University of Maryland.
 <br><b>July 2023:</b> Presented a poster at the institute for learning-enabled optimization at scale (TILOS) at UCSD.
 <br><b>May 2023:</b> A new pre-print, <a href="https://bit.ly/3MBtRfH">Stochastic unrolled federated learning</a>, is out.
