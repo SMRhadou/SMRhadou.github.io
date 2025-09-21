@@ -17,7 +17,7 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
-<br><b>Sep. 2025:</b>Two new preprints are coming soon: Unrolled graph neural networks for constrained learning; and Graph signal generative diffusion models
+<br><b>Sep. 2025:</b> Two new preprints are coming soon: Unrolled graph neural networks for constrained learning; and Graph signal generative diffusion models
 <br><b>Apr. 2025:</b> Our new paper <a href="https://bit.ly/GDMWC">Generative diffusion models for resource allocation in wireless networks</a> is out
 <br><b>Apr. 2025:</b> Gave a talk about our work <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> at ICASSP 2025
 <br><b>Aug. 2024:</b> Our new paper <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> was accepted to IEEE transactions on Signal Processing.
