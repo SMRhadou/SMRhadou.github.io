@@ -17,9 +17,11 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
-<br><b>Sep. 2025:</b> Two new preprints are coming soon: Unrolled graph neural networks for constrained optimization; and Graph signal generative diffusion models
-<br><b>Apr. 2025:</b> Our new paper <a href="https://bit.ly/GDMWC">Generative diffusion models for resource allocation in wireless networks</a> is out
-<br><b>Apr. 2025:</b> Gave a talk about our work <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> at ICASSP 2025
+<br><b>Sep. 2025:</b> Three papers got accepted to NeurIPS workshops. Details to follow.
+<br><b>Sep. 2025:</b> Two new preprints are coming soon: Unrolled graph neural networks for constrained optimization; and Graph signal generative diffusion models.
+<br><b>Sep. 2025:</b> Our paper <a href="https://bit.ly/GDMWC">Generative diffusion models for resource allocation in wireless networks</a> got accepted to  IEEE Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP). <b> Oral </b>. 
+<br><b>Apr. 2025:</b> Our new paper <a href="https://bit.ly/GDMWC">Generative diffusion models for resource allocation in wireless networks</a> is out.
+<br><b>Apr. 2025:</b> Gave a talk about our work <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> at ICASSP 2025.
 <br><b>Aug. 2024:</b> Our new paper <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> was accepted to IEEE transactions on Signal Processing.
 <br><b>June 2024:</b> Gave a Talk, <b> Robust unrolled networks</b>, at BIRS workshop.
 <br><b>Oct. 2023:</b> Presented a poster at the 2023 Fall Fourier Talks at University of Maryland.
