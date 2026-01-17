@@ -17,10 +17,10 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
+<br><b>Jan. 2026:</b> Two papers, <a href="https://bit.ly/CDUshort">Unrolled graph neural networks for constrained optimization</a> and <a href="https://bit.ly/GSigDiff">Graph signal generative diffusion models</a>, got accepted to ICASSP 2026.
 <br><b>Dec. 2025:</b> Presented our papers <a href="https://neurips.cc/virtual/2025/loc/san-diego/123300">Unrolled neural networks for constrained optimization</a>  and <a href="https://neurips.cc/virtual/2025/loc/san-diego/123316">A constrained optimization perspective of unrolled transformers</a> at NeurIPS workoshop on Constrained Optimization for Machine Learning. 
 <br><b>Dec. 2025:</b> Presented our paper <a href="https://bit.ly/Wireless-neurips">GNN-parametrized diffusion policies for wireless resource allocation</a> at NeurIPS workoshop on New Perspectives in Advancing Graph Machine Learning. 
 <br><b>Sep. 2025:</b> Three papers got accepted to NeurIPS workshops. Details to follow.
-<br><b>Sep. 2025:</b> Two new preprints are out: <a href="https://bit.ly/CDUshort">Unrolled graph neural networks for constrained optimization</a>; and <a href="https://bit.ly/GSigDiff">Graph signal generative diffusion models</a>.
 <br><b>Sep. 2025:</b> Our paper <a href="https://bit.ly/GDMWC">Generative diffusion models for resource allocation in wireless networks</a> got accepted to  IEEE Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP). <b> Oral</b>. 
 <br><b>Apr. 2025:</b> Gave a talk about our work <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> at ICASSP 2025.
 <br><b>Aug. 2024:</b> Our new paper <a href="https://bit.ly/3vCgDdr">Robust stochastically-descending unrolled networks</a> was accepted to IEEE transactions on Signal Processing.
