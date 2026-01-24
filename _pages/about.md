@@ -19,7 +19,7 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
-<br><b>Jan. 2026:</b> Our paper, Stochastic Unrolled Neural Networks, has been accepted to Conference on Parsimony and Learning (CPAL) 2026. The manuscript will be shared shortly.
+<br><b>Jan. 2026:</b> Our paper, <a href="https://bit.ly/3MBtRfH">Stochastic Unrolled Neural Networks</a>, has been accepted to Conference on Parsimony and Learning (CPAL 2026).
 <br><b>Jan. 2026:</b> Two papers, <a href="https://bit.ly/CDUshort">Unrolled graph neural networks for constrained optimization</a> and <a href="https://bit.ly/GSigDiff">Graph signal generative diffusion models</a>, got accepted to ICASSP 2026.
 <br><b>Dec. 2025:</b> Presented our papers <a href="https://neurips.cc/virtual/2025/loc/san-diego/123300">Unrolled neural networks for constrained optimization</a>  and <a href="https://neurips.cc/virtual/2025/loc/san-diego/123316">A constrained optimization perspective of unrolled transformers</a> at NeurIPS workoshop on Constrained Optimization for Machine Learning. 
 <br><b>Dec. 2025:</b> Presented our paper <a href="https://bit.ly/Wireless-neurips">GNN-parametrized diffusion policies for wireless resource allocation</a> at NeurIPS workoshop on New Perspectives in Advancing Graph Machine Learning. 
@@ -30,7 +30,6 @@ __
 <br><b>June 2024:</b> Gave an invited talk, <b> Robust unrolled networks</b>, at BIRS workshop.
 <br><b>Oct. 2023:</b> Presented a poster at the 2023 Fall Fourier Talks at University of Maryland.
 <br><b>July 2023:</b> Presented a poster at the institute for learning-enabled optimization at scale (TILOS) at UCSD.
-<br><b>May 2023:</b> A new pre-print, <a href="https://bit.ly/3MBtRfH">Stochastic unrolled federated learning</a>, is out.
 <br><b>Feb. 2023:</b> Our paper <a href="https://bit.ly/3sFyQCt">Space-time graph neural networks with stochastic graph perturbations</a> was accepted to ICASSP 2023. A <a href="https://bit.ly/3nJOiyl">short talk</a> is now available.
 <br><b>Apr. 2022:</b> Our paper <a href="https://bit.ly/3amHDzL">Space-time graph neural networks</a> was accepted to ICLR 2022. A <a href="https://bit.ly/3EQeV91"> five-minute talk </a> is now available.
 
