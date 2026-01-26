@@ -1,0 +1,11 @@
+---
+title: "Space-time graph neural networks with stochastic graph perturbations"
+collection: publications
+authors: <b>Samar Hadou</b>, Charilaos Kanatsoulis, and Alejandro Ribeiro.
+excerpt: 'Space-time graph neural networks are tailored to learn representations from time-varying graph data. In this paper, we introduce a new notion of convolutions that led to introducing this new vartiation of GNNs and prove its stability to domain deformations.'
+date: 2023-05-08
+venue: 'ICASSP 2023'
+paperur3: 'https://bit.ly/3nJOiyl'
+paperurl: 'https://bit.ly/3sFyQCt'
+
+---
