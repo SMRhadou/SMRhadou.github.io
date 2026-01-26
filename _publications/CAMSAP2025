@@ -1,6 +1,7 @@
 ---
-title: "Generative diffusion models for resource allocation in wireless networks"
+title: "Generative Diffusion Models for Resource Allocation in Wireless Networks"
 collection: publications
+exerpt: In this paper, we develop generative diffusion models to sample allocation policies from an optimal distribution.
 authors: Yigiy Berkay Uslu, <b>Samar Hadou</b>, Shirin Bidokhti, and Alejandro Ribeiro.
 date: 2025-12-15
 venue: 'IEEE Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)'
