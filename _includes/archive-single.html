@@ -33,6 +33,10 @@
         [<a href=" {{ post.paperurl }} ">Paper</a>]  [<a href=" {{ post.paperur4 }} ">Talk</a>]
       {% elsif post.paperurl and post.paperur2 and post.paperur4 %}
         [<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur4 }} ">Talk</a>]
+      {% elsif post.paperurl and post.paperur2 and post.paperur5 %}
+        [<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur2 }} ">Code</a>] [<a href=" {{ post.paperur5 }} ">Poster</a>]
+      {% elsif post.paperurl and post.paperur5 %}
+        [<a href=" {{ post.paperurl }} "><u>Paper</u></a>] [<a href=" {{ post.paperur5 }} ">Poster</a>]
       {% elsif post.paperurl and post.paperur2 %}
         [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.paperur2 }} ">Code</a>]
       {% elsif post.paperurl and post.paperur3 %}
