@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-We formulate the world in optimization terms (i.e., objectives, constraints, and tradeoffs), then hand it to learning to make decisions. Too often, learning chases benchmarks while overlooking that formulation. My work builds optimization dynamics into learning, so structure and guarantees guide what models learn and how they behave.
+We formulate the world in optimization terms (i.e., objectives, constraints, and tradeoffs), then hand it to learning to make decisions. Too often, learning chases benchmarks while overlooking that formulation. I build optimization dynamics into learning, so structure and guarantees guide what models learn and how they behave.
 
 I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
 
