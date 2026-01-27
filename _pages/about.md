@@ -19,7 +19,7 @@ Reach out at selaraby (at) seas (dot) upenn (dot) edu.
 __
 
 <u><b>News</b></u>
-<br><b>Jan. 2026:</b> A new preprint is out: <a href="https://arxiv.org/pdf/2601.17274">Unrolled neural networks for constrained optimization</a>.
+<br><b>Jan. 2026:</b> A new preprint is out: <a href="https://bit.ly/3Z1rqJO">Unrolled neural networks for constrained optimization</a>.
 <br><b>Jan. 2026:</b> Our paper, <a href="https://bit.ly/3MBtRfH">Stochastic unrolled neural networks</a>, has been accepted to Conference on Parsimony and Learning (CPAL 2026).
 <br><b>Jan. 2026:</b> Two papers, <a href="https://bit.ly/CDUshort">Unrolled graph neural networks for constrained optimization</a> and <a href="https://bit.ly/GSigDiff">Graph signal generative diffusion models</a>, got accepted to ICASSP 2026.
 <br><b>Dec. 2025:</b> Presented our papers <a href="https://neurips.cc/virtual/2025/loc/san-diego/123300">Unrolled neural networks for constrained optimization</a>  and <a href="https://neurips.cc/virtual/2025/loc/san-diego/123316">A constrained optimization perspective of unrolled transformers</a> at NeurIPS workoshop on Constrained Optimization for Machine Learning. 
