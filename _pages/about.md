@@ -13,9 +13,7 @@ We formulate the world in optimization terms (i.e., objectives, constraints, and
 
 I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
 
-I am on the academic job market.
-
-Reach out at selaraby (at) seas (dot) upenn (dot) edu.
+<b>I am on the academic job market.</b>
 
 __
 
