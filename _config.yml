@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "selaraby@seas.upenn.edu"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.eg/citations?hl=en&user=FwL_RdEAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : 
+  email            : "selaraby@seas.upeen.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
