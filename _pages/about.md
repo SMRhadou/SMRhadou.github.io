@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
 
-I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>. 
+We formulate the world in optimization terms, namely objectives, constraints, and tradeoffs, then hand it to learning to solve. Too often, learning chases performance while ignoring the language that defines the problem. My work brings optimization into learning, so structure and guarantees shape what models learn and how they behave.
+
+I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
 
 I am on the academic job market.
 
