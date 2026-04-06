@@ -3,7 +3,7 @@ title: "Robust Stochastically-Descending Unrolled Networks"
 collection: publications
 authors: <b>Samar Hadou</b>, Navid NaderiAlizadeh, and Alejandro Ribeiro.
 date: 2024-11-04
-venue: 'IEEE Transactions on Signal Processing'
+venue: 'IEEE Transactions on Signal Processing (TSP)'
 paperurl: 'https://bit.ly/3vCgDdr'
 paperur2: 'https://github.com/SMRhadou/RobustUnrolling'
 
