@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-We formulate the world in optimization terms (i.e., objectives, constraints, and tradeoffs), then hand it to learning to make decisions. Too often, learning chases benchmarks while overlooking that formulation. I build optimization dynamics into learning, so structure and guarantees guide what models learn and how they behave.
+We formulate the world in optimization terms (i.e., objectives, constraints, and tradeoffs), then hand it to learning to make decisions. Too often, learning chases benchmarks while overlooking that underlying formulation. My work aligns learning with optimization algorithms, so that neural netwroks inherit the defining properties of iterative algorithms and generalize more reliably. 
+
+This perspective goes beyond traditional neural architectures and extends to transformers and diffusion models. I am particularly interested in diffusion models as optimization tools for stochastic optimization problems, where a single deterministic solution can be overly restrictive and suboptimal. However, mainstream diffusion models are not yet equipped for the challenges of optimization domains, especially when constraints, tradeoffs, and feasibility matter. I therefore develop architectures and dynamics that enable diffusion models to operate as principled tools for these settings.
 
 I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
 
@@ -18,8 +20,8 @@ I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a h
 __
 
 <u><b>News</b></u>
-<br><b>Apr. 2026:</b><a href="https://bit.ly/4r8BjS2"> A constrained optimization perspective of unrolled transformers</a> has been accepted to ICML as a <b>Spotlight!</b>.
-<br><b>Apr. 2026:</b> A new preprints is out: <a href="https://bit.ly/4mkl8zO">Graph signal diffusion models for wireless resource allocation</a> will appear as an invited paper to a special session at SPAWC 2026.
+<br><b>Apr. 2026:</b><a href="https://bit.ly/4r8BjS2"> A constrained optimization perspective of unrolled transformers</a> has been accepted to ICML as a <b>Spotlight!</b>
+<br><b>Apr. 2026:</b> A new preprint <a href="https://bit.ly/4mkl8zO">Graph signal diffusion models for wireless resource allocation</a> is out and will appear as an invited paper to a special session at SPAWC 2026.
 <br><b>Jan. 2026:</b> A new preprint is out: <a href="https://bit.ly/3Z1rqJO">Unrolled neural networks for constrained optimization</a>.
 <br><b>Jan. 2026:</b> Our paper, <a href="https://openreview.net/pdf?id=hQQMk0IOPv">Stochastic unrolled neural networks</a>, has been accepted to Conference on Parsimony and Learning (CPAL) in March 2026.
 <br><b>Jan. 2026:</b> Two papers, <a href="https://bit.ly/CDUshort">Unrolled graph neural networks for constrained optimization</a> and <a href="https://bit.ly/GSigDiff">Graph signal generative diffusion models</a>, got accepted to ICASSP 2026.
