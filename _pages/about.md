@@ -13,7 +13,7 @@ We formulate the world in optimization terms (i.e., objectives, constraints, and
 
 This perspective goes beyond traditional neural architectures and extends to transformers and diffusion models. I am particularly interested in diffusion models as optimization tools for stochastic optimization problems, where a single deterministic solution can be overly restrictive and suboptimal. However, mainstream diffusion models are not yet equipped for the challenges of optimization domains, especially when constraints, tradeoffs, and feasibility matter. I therefore develop architectures and dynamics that enable diffusion models to operate as principled tools for these settings.
 
-I am Samar (pronounced as Summer or /ˈsʌmə(ɹ)/), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
+My name is Samar (pronounced as Summer), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
 
 <b>I am on the academic job market.</b>
 
