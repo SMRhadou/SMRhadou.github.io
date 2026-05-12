@@ -21,7 +21,7 @@ __
 
 <u><b>News</b></u>
 <br><b>Apr. 2026:</b><a href="https://bit.ly/4r8BjS2"> A constrained optimization perspective of unrolled transformers</a> has been accepted to ICML as a <b>Spotlight!</b>
-<br><b>Apr. 2026:</b> A new preprint <a href="https://bit.ly/4mkl8zO">Graph signal diffusion models for wireless resource allocation</a> is out and will appear as an invited paper to a special session at SPAWC 2026.
+<br><b>Apr. 2026:</b> A new preprint <a href="https://bit.ly/4mkl8zO">Graph signal diffusion models for wireless resource allocation</a> is out and will appear as an <b>invited paper</b> to a special session at SPAWC 2026.
 <br><b>Jan. 2026:</b> A new preprint is out: <a href="https://bit.ly/3Z1rqJO">Unrolled neural networks for constrained optimization</a>.
 <br><b>Jan. 2026:</b> Our paper, <a href="https://openreview.net/pdf?id=hQQMk0IOPv">Stochastic unrolled neural networks</a>, has been accepted to Conference on Parsimony and Learning (CPAL) in March 2026.
 <br><b>Jan. 2026:</b> Two papers, <a href="https://bit.ly/CDUshort">Unrolled graph neural networks for constrained optimization</a> and <a href="https://bit.ly/GSigDiff">Graph signal generative diffusion models</a>, got accepted to ICASSP 2026.
