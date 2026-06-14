@@ -11,7 +11,7 @@ redirect_from:
 
 We formulate the world in optimization terms (i.e., objectives, constraints, and tradeoffs), then hand it to learning to make decisions. Too often, learning chases benchmarks while overlooking that underlying formulation. My work aligns learning with optimization algorithms, so that neural netwroks inherit the defining properties of iterative algorithms and generalize more reliably. 
 
-This perspective goes beyond traditional neural architectures and extends to transformers and diffusion models. I am particularly interested in diffusion models as optimization tools. However, mainstream diffusion models are not yet equipped for the challenges of optimization domains, especially when constraints, tradeoffs, and feasibility matter. I therefore develop architectures and dynamics that enable diffusion models to operate as principled tools for these settings.
+This perspective goes beyond traditional neural architectures and extends to generative AI. I am particularly interested in diffusion models as optimization tools. However, mainstream diffusion models are not yet equipped for the challenges of optimization domains, especially when constraints, tradeoffs, and feasibility matter. I therefore develop architectures and dynamics that enable diffusion models to operate as principled tools for these settings.
 
 My name is Samar (pronounced as Summer), a PhD candidate at the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. I work under the supervision of Prof. <a href="https://alelab.seas.upenn.edu/alejandro-ribeiro/">Alejandro Ribeiro</a>.
 
