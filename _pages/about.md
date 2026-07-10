@@ -20,7 +20,7 @@ My name is Samar (pronounced as Summer), a PhD candidate at the <a href="https:/
 __
 
 <u><b>News</b></u>
-br><b>Jul. 2026:</b> One more preprint is out, <a href="https://arxiv.org/pdf/2607.06833">Generative Diffusion Models of Stochastic Graph Signals</a>.
+<br><b>Jul. 2026:</b> One more preprint is out, <a href="https://arxiv.org/pdf/2607.06833">Generative Diffusion Models of Stochastic Graph Signals</a>.
 <br><b>Jun. 2026:</b> Check out our new paper, <a href="https://arxiv.org/abs/2606.17192">Constrained Diffusion Models with Primal-Dual Inference</a>. 
 <br><b>Apr. 2026:</b><a href="https://bit.ly/4r8BjS2"> A constrained optimization perspective of unrolled transformers</a> has been accepted to ICML as a <b>Spotlight!</b>
 <br><b>Apr. 2026:</b> A new preprint <a href="https://bit.ly/4mkl8zO">Graph signal diffusion models for wireless resource allocation</a> is out and will appear as an <b>invited paper</b> to a special session at SPAWC 2026.
